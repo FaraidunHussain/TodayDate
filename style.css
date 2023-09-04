@@ -1,0 +1,9 @@
+#todaydate {
+    width: auto;
+    height: 60px;
+    color: brown;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 25px 0 0 25px;
+    background-color: darkgrey;
+}
